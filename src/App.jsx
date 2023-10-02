@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
 
-      <h2 className='header1'>Stop Watch</h2>
+      <h2 className='header1'>Time Yourself</h2>
       <Stopwatch/>
       
       
